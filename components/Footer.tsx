@@ -39,7 +39,7 @@ export default function Footer() {
 
         <div className="footer-bottom">
           <p className="copyright">
-            © 2025 Cantinho das Bonecas - Juracema Neumann. Todos os direitos reservados.
+            © 2026 Cantinho das Bonecas - Juracema Neumann. Todos os direitos reservados.
           </p>
           <p className="dev-credits">
             Desenvolvido por{' '}
